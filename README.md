@@ -1,6 +1,9 @@
 # AR-app
-To test this app without using Unity:
-1) Open "Test Here" folder.
-2) Install the APK on your Andriod smartphone(5.0 Lollipop and above).
-3) Open "Image Target.jpg" and point the camera to it.
-4) Done
+This is a sample project made using Unity and Vuforia for image recognition and augmented reality. 
+To test this app on your Android device:
+1) Download the APK and Image Target from here. https://drive.google.com/open?id=1OSNPsJw7RflLKhTjQ3d-YOWlK3rsYZKq
+2) Extract the compressed file.
+3) Install the APK on your android smartphone(5.0 Lollipop and above).
+4) Open the "Image Target.jpg" on your PC/Laptop.
+5) Open the ARONE app on your androrid device and point the camera towards the image target.
+
